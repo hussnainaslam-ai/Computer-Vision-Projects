@@ -1,4 +1,5 @@
 # Computer Vision Mini Project
+
 ## CVZone Computer Vision Toolkit
 
 A collection of real-time computer vision applications built with **OpenCV**, **MediaPipe**, and **CVZone**. This repo includes eye blink detection, face mesh landmark tracking, full-body pose estimation, and a virtual shirt try-on application.
